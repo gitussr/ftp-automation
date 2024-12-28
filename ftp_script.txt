@@ -1,0 +1,6 @@
+open 103.119.110.6
+dev@ctsp.com.au
+Sr9bzrRz5XH7YCJmfdQc
+cd /domains/ctsp.com.au/public_html/wp-content/themes/ctsp
+put C:\Users\CK\Desktop\demo.txt
+bye
